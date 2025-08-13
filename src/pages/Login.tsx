@@ -49,7 +49,7 @@ export default function Login() {
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-background via-background to-primary/5 p-4">
-      <div className="absolute inset-0 bg-grid-pattern opacity-5"></div>
+     
       
       <Card className="w-full max-w-md shadow-elevation animate-scale-in">
         <CardHeader className="text-center pb-6">
